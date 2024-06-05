@@ -11,7 +11,7 @@ const App = () => {
       <div className="container">
         <Jumbotron />
         <div className="container my-3">
-          <div className="row card-deck text-center">
+          <div className="row card-deck text-center justify-content-evenly">
             <Card />
             <Card />
             <Card />
